@@ -1,2 +1,2 @@
 # Projeto-Academia
-gestpão de software academia
+gestão de software academia
